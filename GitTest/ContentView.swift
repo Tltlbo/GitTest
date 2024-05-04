@@ -21,7 +21,7 @@ struct ContentView: View {
             
             Spacer()
             
-            Text("New hello")
+            Text("New One")
         }
         .padding()
     }
