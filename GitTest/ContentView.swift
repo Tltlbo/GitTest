@@ -18,6 +18,10 @@ struct ContentView: View {
             Spacer()
             
             Text("New navigate")
+            
+            Spacer()
+            
+            Text("New One")
         }
         .padding()
     }
