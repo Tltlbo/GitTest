@@ -22,6 +22,8 @@ struct ContentView: View {
             Spacer()
             
             Text("New One")
+            
+            Text("NExt")
         }
         .padding()
     }
