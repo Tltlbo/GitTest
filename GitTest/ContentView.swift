@@ -23,7 +23,9 @@ struct ContentView: View {
             
             Text("New One")
             
-            Text("NExt")
+            Text("modify at branch")
+            
+            Text("HELLO")
         }
         .padding()
     }
